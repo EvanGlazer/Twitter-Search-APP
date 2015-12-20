@@ -1,4 +1,4 @@
 # Twitter-Search-APP
 Twitter Search APP
 
-![My image](http://imgur.com/oUqtNzM)
+![My image](http://i.imgur.com/oUqtNzM.png)
